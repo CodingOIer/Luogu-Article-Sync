@@ -1,0 +1,7 @@
+.vscode
+.blog
+.config
+main.spec
+build
+dist
+*.exe
